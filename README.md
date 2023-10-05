@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning at uniMelb as undergrad
+- 🔭 I’m currently working on LeftSpring pty ltd as fonder
+  
 <!--
 **evenodderguy/evenodderguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
